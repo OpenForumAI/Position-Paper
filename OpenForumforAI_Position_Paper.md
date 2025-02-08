@@ -29,8 +29,7 @@ orcidicon: "assets/images/icons/ORCID-iD_icon_32x32.png"
 roricon: "assets/images/icons/ror-icon-bw-32.png"
 license_text: "CC BY 4.0"
 license_link: "https://creativecommons.org/licenses/by/4.0/"
-...
-# Open Forum for AI Position Paper
+---
 
 # Vision and Mission
 
