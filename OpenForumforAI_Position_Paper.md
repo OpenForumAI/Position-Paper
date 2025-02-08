@@ -5,24 +5,12 @@ author:
 - name: Michael Meagher
   affiliation: 1
   orcid: 0009-0005-0804-8142
-- name: Clare Dillon
-  affiliation: 2,3
-  orcid: 0009-0008-6205-0296  
-# - name: Kevin Moerman
-#   affiliation: 1,2
-#   orcid: 0000-0003-3768-4269    
 affiliations:
   - index: 1
-    name: University of Galway
-    ror: 03bea9k73
-  - index: 2
     name: LERO, the SFI Centre for Software Research      
-  - index: 3
-    name: University of Limerick
-    ror: 00a0n9e72
 header-right: "v1.0"
-subject: "Open Source Software, Irish Universities"
-keywords: [Open source, Irish Universities]
+subject: "Open Forum for AI Position Paper"
+keywords: [Open Forum, AI]
 lang: "en"
 toc: true,
 toc-own-page: true,
@@ -34,7 +22,7 @@ endpage: "assets/backgrounds/BackCover.pdf"
 bibliograpy: "bibliography.bib"
 biblio-title: "References"
 biblatex: false,
-doi: "10.5281/zenodo.14392732"
+doi: "---"
 colorlinks: true,
 orcidicon: "assets/images/icons/ORCID-iD_icon_32x32.png"
 roricon: "assets/images/icons/ror-icon-bw-32.png"

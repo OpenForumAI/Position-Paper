@@ -9,7 +9,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: docker://pandoc/extra:3.5
         with:
-          args: FrameworkManagingUniversityOSS.md --output=output/FrameworkManagingUniversityOSS.pdf --template assets/templates/eisvogel.tex --listings --number-sections --bibliography=bibliography.bib --citeproc --csl ieee.csl
+          args: OpenForumforAI_Position_Paper.md --output=output/OpenForumforAI_Position_Paper.pdf --template assets/templates/eisvogel.tex --listings --number-sections --bibliography=bibliography.bib --citeproc --csl ieee.csl
       - uses: actions/upload-artifact@v4
         with:
           name: output

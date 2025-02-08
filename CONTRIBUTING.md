@@ -1,7 +1,7 @@
 # Contribution Guidelines
 
 ## Project Setup
-Refer to the [README](README.md).
+Refer to the [README](https://github.com/OpenForumAI/Position-Paper/blob/main/README.md).
 
 ## Reporting issues
 
