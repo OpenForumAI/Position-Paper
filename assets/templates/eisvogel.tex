@@ -1176,8 +1176,7 @@ $endif$
 
 $if(endpage)$
 % \includepdf[pages=-]{$endpage$}
-\newpage  
-\clearpage\thispagestyle{empty} \ \newpage % adds empty page (e.g. to ensure backcover is the back of last printed page)
+\newpage  % \clearpage\thispagestyle{empty} \ \newpage % adds empty page (e.g. to ensure backcover is the back of last printed page)
 \clearpage\thispagestyle{empty}
 \tikz[remember picture,overlay] \node[inner sep=0pt] at (current page.center){\includegraphics[width=\paperwidth,height=\paperheight]{$endpage$}};
 $endif$
