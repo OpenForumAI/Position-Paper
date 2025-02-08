@@ -1,6 +1,6 @@
 ---
 title: "Open Forum for AI Position Paper"
-subtitle: "sub title"
+subtitle: "Bending the arc toward human-centered AI led by academics and nonproﬁts"
 author:
 - name: Michael Meagher
   affiliation: 1
@@ -18,6 +18,7 @@ titlepage: true,
 titlepage-rule-color: "360049"
 titlepage-text-color: "FFFFFF"
 titlepage-background: "assets/backgrounds/FrontCover.pdf"
+secondpage: "assets/backgrounds/SecondPage.pdf"
 endpage: "assets/backgrounds/BackCover.pdf"
 bibliograpy: "bibliography.bib"
 biblio-title: "References"
