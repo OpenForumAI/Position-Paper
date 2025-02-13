@@ -98,7 +98,7 @@ In Year 2 our efforts will concentrate on evaluating openness mechanisms in prac
 
 For the broader landscape, OFAI will organize its work along the dimensions of AI model components and its five, interrelated working groups of research, technical prototypes, community engagement, policy recommendations, and talent for service. This [OFAI Landscape Map](https://openforumai.github.io/landscape/) depicts the current and proposed areas of OFAI activity, providing a mechanism for identifying future partners who could either reinforce existing work or lead new areas of activity. It also respects the existing resources such as Stanford’s Foundation Model Transparency Index, Hugging Face’s model cards, and Partnerships in AI’s Guidance for Safe Foundation Model Deployment. The OFAI Landscape is a prototype based on the CNCF interactive landscapes generator. We welcome additions from OFAI members, partner organizations and those partaking in new and existing, complementary activities.
 
-![Table 1](assets/images/table1_image.jpg)
+![OFAI Landscape Map](assets/images/table1_image.jpg)
   
 # Technical Prototypes
 
@@ -124,7 +124,7 @@ Consistent with our goal of human-centered AI, OFAI will engage an inclusive com
 
 Drawing on the two years of consensus-building experience from Open Source Initiative’s Open Source AI Definition (OSAID), we identify the following initial stakeholders from the open source ecosystem, noting that OFAI will expand to include stakeholders representing all sectors of society, such as policymakers:
 
-![Table 2](assets/images/table2_image.jpg)
+![Stakeholders map](assets/images/table2_image.jpg)
 
 The OSAID process serves as a reference model for diverse AI-related community engagement. OSI facilitated a dozen town halls and working group meetings; established a public forum for discussion and debate; provided presentations and opportunities for feedback at three dozen public events on five continents; 36 co-design working group/systems review volunteers representing 23 countries by birth or residence. 
 
